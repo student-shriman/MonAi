@@ -1,0 +1,21 @@
+🏗️ Project MONAI (Medical Open Network for AI)-Computer Vision Tutorials by NVIDIA and King's College London
+⛵ Resources:
+------------
+🏢 Official Repo: https://lnkd.in/d5UX6vza
+
+©️ Colab:
+🧑‍💻 @MONAI for PyTorch Users: https://lnkd.in/ehjZwWc
+
+🧑‍💻 MedNIST: https://lnkd.in/dkGjzCS4
+
+
+💁‍♂️ MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of the PyTorch Ecosystem.
+
+👏 Features
+---------------
+📌 The codebase is currently under active development.
+📌 flexible preprocessing for multi-dimensional medical imaging data;
+📌 compositional and portable APIs for ease of integration into existing workflows;
+📌 domain-specific implementations for networks, losses, evaluation metrics, and more;
+📌 customizable design for varying user expertise;
+📌 multi-GPU data parallelism support.
